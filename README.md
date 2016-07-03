@@ -11,6 +11,8 @@ Adapted for personal use.
 3. No ftd232
 
 Files:
+
 1. PCB, eagle format
 2. Schematic, pdf and eagle format
 3. casing design, laser cut 3mm plywood
+4. 
