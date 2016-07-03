@@ -6,7 +6,7 @@ vwlowen.co.uk/arduino/battery-tester/batery-tester.htm
 
 Addapted for personal use.
 
-Changed PCB layout:\\
-no power supply (power is supplied through usb connector)\\
-No ftd232\\
+1 Changed PCB layout:
+2 no power supply (power is supplied through usb connector)
+3 No ftd232
 
